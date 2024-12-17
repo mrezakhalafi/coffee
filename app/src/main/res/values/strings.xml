@@ -1,12 +1,26 @@
 <resources>
-    <string name="app_name">Coffee</string>
+    <string name="app_name">Kopi Jak</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
-    <string name="splashscreen_title">Fall in Love with Coffee in Blissful Delight!</string>
+    <string name="splashscreen_title">Fall in Love with Kopi Jak in Blissful Delight!</string>
     <string name="splashscreen_description">Welcome to our cozy coffee corner, where every cup ia a delightful for you.</string>
     <string name="get_started">Get Started</string>
     <string name="location">Location</string>
     <string name="jakarta">Jakarta, Indonesia</string>
+    <string name="all_coffee">All Coffee</string>
+    <string name="machiato">Machiato</string>
+    <string name="latte">Latte</string>
+    <string name="americano">Americano</string>
+    <string name="caffee_mocha">Caffee Mocha</string>
+    <string name="flat_white">Flat White</string>
+    <string name="deep_foam">Deep Foam</string>
+    <string name="espresso">Espresso</string>
+    <string name="rp_25">Rp 25.000</string>
+    <string name="rp_36">Rp 36.000</string>
+    <string name="spanish_latte">Spanish Latte</string>
+    <string name="black_aren">Black Aren</string>
+    <string name="rp_28">Rp 28.000</string>
+    <string name="rp_32">Rp 32.000</string>
 </resources>
