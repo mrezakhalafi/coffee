@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="splashscreen_title">Fall in Love with Coffee in Blissful Delight!</string>
+    <string name="splashscreen_description">Welcome to our cozy coffee corner, where every cup ia a delightful for you.</string>
+    <string name="get_started">Get Started</string>
+    <string name="location">Location</string>
+    <string name="jakarta">Jakarta, Indonesia</string>
+</resources>
